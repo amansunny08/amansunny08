@@ -1,16 +1,33 @@
-### Hi there 👋
+# Welcome to Aman Kumar's GitHub Profile! 👋
 
-<!--
-**amansunny08/amansunny08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Aman Kumar, a passionate DevOps Engineer with expertise in orchestrating and automating cloud infrastructure. I specialize in Docker, Kubernetes, Terraform, Ansible, AWS and more.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud Platforms:** AWS, Azure
+- **Containerization:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **Automation:** Ansible, GitHub Actions, Jenkins
+- **Monitoring:** Nagios, Prometheus, Grafana
+- **Scripting:** Bash Shell, Python
+- **Version Control:** Git
+- **Storage:** AWS S3, Minio
+- **Collaboration:** GitHub, Agile Methodologies
+
+## 🚀 Skills Highlights
+
+- **Container Orchestration:** Leveraging Docker and Kubernetes for efficient container management.
+- **Infrastructure Automation:** Terraform and Ansible for provisioning and configuration management.
+- **Cloud Expertise:** Extensive experience with AWS and Azure cloud platforms.
+- **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Jenkins for automated workflows.
+- **Monitoring & Logging:** Utilizing Nagios, Prometheus, and Grafana for robust monitoring.
+- **Scripting and Automation:** Proficient in Bash Shell scripting and Python for automation tasks.
+- **Collaboration:** Strong experience in Git and GitHub for version control and collaborative development.
+- **Agile & Waterfall Methodologies:** Adaptability to various project management methodologies.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/aman-kumar-7a516a218/)
+
+
+Thanks! ✨
