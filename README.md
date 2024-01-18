@@ -27,7 +27,7 @@ Hello there! I'm Aman Kumar, a passionate DevOps Engineer with expertise in orch
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/aman-kumar-7a516a218/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/aman-kumar-7a516a218)
 
 
 Thanks! ✨
