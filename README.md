@@ -6,7 +6,7 @@ Hello there! I'm Aman Kumar, a passionate DevOps Engineer with expertise in orch
 
 - **Cloud Platforms:** AWS, Azure
 - **Containerization:** Docker, Kubernetes
-- **Infrastructure as Code:** Terraform
+- **Infrastructure as Code:** Terraform, AWS CloudFormation, Azure ARM Template
 - **Automation:** Ansible, GitHub Actions, Jenkins
 - **Monitoring:** Nagios, Prometheus, Grafana
 - **Scripting:** Bash Shell, Python
